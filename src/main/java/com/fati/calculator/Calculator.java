@@ -5,4 +5,7 @@ public class Calculator {
         return a + b;
     }
 
+    public int divide(int opG,int opD){
+        return opG/opD;
+    }
 }
